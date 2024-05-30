@@ -1,0 +1,23 @@
+{
+  "name": "curso_typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsacWilliam/Curso_Typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsacWilliam/Curso_Typescript/issues"
+  },
+  "homepage": "https://github.com/IsacWilliam/Curso_Typescript#readme",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
