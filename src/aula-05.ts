@@ -11,13 +11,13 @@ interface Endereco {
     rua: string;
     bairro: string;
     cidade: Cidade;
-    complemento?: string;
+    complemento?: string;  //Opcional
 }
 
 const endereco: Endereco = {
     bairro: 'x',
     rua: 'a',
-    complemento: 'e',
+    //complemento: 'e',
     cidade: {
         nome: 'd',
         estado: {
